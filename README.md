@@ -7,3 +7,8 @@ BlueSCSI case modelled after an Apple 800k external floppy drive.
 *The apple cutout is the correct size to fit an apple from a powerbook / powerbook duo.*
 
 *The magnets used in this project are 5mm in diameter and 2mm tall.*
+
+![Model](https://raw.githubusercontent.com/mcbeav/model-blue.scsi.apple.800k/refs/heads/main/BlueSCSI.PNG)
+
+
+![BlueSCSI Stacked On Top Of FloppyEMU](https://raw.githubusercontent.com/mcbeav/model-blue.scsi.apple.800k/refs/heads/main/BlueSCSI-FloppyEMU.jpeg)
