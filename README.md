@@ -12,3 +12,6 @@ BlueSCSI case modelled after an Apple 800k external floppy drive.
 
 
 ![BlueSCSI Stacked On Top Of FloppyEMU](https://raw.githubusercontent.com/mcbeav/model-blue.scsi.apple.800k/refs/heads/main/BlueSCSI-FloppyEMU.jpeg)
+
+
+![Back Of BlueSCSI](https://raw.githubusercontent.com/mcbeav/model-blue.scsi.apple.800k/refs/heads/main/Back.jpg)
