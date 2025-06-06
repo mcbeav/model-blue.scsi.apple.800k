@@ -10,7 +10,7 @@ BlueSCSI case modelled after an Apple 800k external floppy drive.
 
 *You'll need an micro SD card extension (I got mine from Amazon)*
 
-I've uploaded a revision to the bottom plate removing the extra pieces, and simplifying the model. The revised models are the models with "(Revision)" in the filename.
+I've uploaded a revision to the bottom plate removing the extra pieces, and simplifying the model.
 
 ![Model](https://raw.githubusercontent.com/mcbeav/model-blue.scsi.apple.800k/refs/heads/main/photos/front.PNG)
 
