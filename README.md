@@ -15,7 +15,7 @@ I've uploaded a revision to the bottom plate removing the extra pieces, and simp
 ![Model](https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/models/blue.scsi.apple.800k/front.png)
 
 
-![BlueSCSI Stacked On Top Of FloppyEMU](https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/models/blue.scsi.apple.800k/bluescsi.jpg)
+![BlueSCSI Stacked On Top Of FloppyEMU](https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/models/blue.scsi.apple.800k/bluescsi.jpeg)
 
 
 ![Back Of BlueSCSI](https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/models/blue.scsi.apple.800k/back.jpg)
